@@ -1,0 +1,17 @@
+<StackLayout orientation="vertical" height="100%" backgroundColor="#EA2330"> -->
+    <StackLayout orientation="vertical" height="20" backgroundColor="#EA2330">
+        <Label text="Last synced at: 17:43, 25 sep"  marginLeft="5" marginTop="4" size="4" textWrap="true" color="white"></Label>
+    </StackLayout>
+    <TabView id="booking-tab" selectedIndex="0" iosIconRenderingMode="alwaysOriginal" sdkExampleTitle sdkToggleNavButton>
+
+        <StackLayout *tabItem="{title: 'Upcoming'}">
+            <ns-upcoming></ns-upcoming>
+        </StackLayout>
+        <StackLayout *tabItem="{title: 'Completed'}">
+            <ns-complete></ns-complete>
+        </StackLayout>
+        <StackLayout *tabItem="{title: 'Cancelled'}">
+            <ns-cancel></ns-cancel>
+        </StackLayout>
+    </TabView>
+</StackLayout>

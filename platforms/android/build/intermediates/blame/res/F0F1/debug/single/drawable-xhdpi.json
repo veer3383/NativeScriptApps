@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/viraj/TabView/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/empty.png",
+        "source": "/home/viraj/TabView/platforms/android/src/main/res/drawable-xhdpi/empty.png"
+    },
+    {
+        "merged": "/home/viraj/TabView/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/logo.png",
+        "source": "/home/viraj/TabView/platforms/android/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/home/viraj/TabView/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/ic_ham.png",
+        "source": "/home/viraj/TabView/platforms/android/src/main/res/drawable-xhdpi/ic_ham.png"
+    },
+    {
+        "merged": "/home/viraj/TabView/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/background.png",
+        "source": "/home/viraj/TabView/platforms/android/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/viraj/TabView/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-xhdpi/icon.png",
+        "source": "/home/viraj/TabView/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    }
+]

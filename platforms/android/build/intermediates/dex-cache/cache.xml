@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/TabView/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/TabView-runtime-unspecified_8a91467b80ad62a6d5968406558b2166d83a432c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_130a0e43ad0902ce0858571b7ddab5c831a5b23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_615042bf5f842124a870020a95411cca6cc825d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_7f7165f32aa407e343660733939c9fa0f9ba2f73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_92f6ec4f794a32fec5fc33764ec8e52341664c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_6fb1bd346bc148c669a086bdec0caf31b1c05690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/TabView/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_1583c7426e9eb539c61c94d71fbf9aa4875d82e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_edf5c4057b39aee3f5b7b21119ecfbb87d0f133d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_7c57cc92c0b35aa7f44e27a9750047cfe6ee12ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_004a78f2d78950fddc6e79c247a849c460b67e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_2ffe913f8a710d16a61c4a7167807aa58931c3af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_d4f0c7b1e1cb89e130daf903cdd103502f44b31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_b722890eb199a07b294a354728be2e6f9b0e65fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_fcbde42022b1ebd2450d0583ee5c4a323a0f43c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_5eced6a510192df79406a14107fa44a4536eeda1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/viraj/TabView/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/viraj/TabView/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_b40e765261070900fd57228da4f339620de2b4a5.jar" />
+    </item>
+
+</items>
